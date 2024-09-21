@@ -1,0 +1,73 @@
+﻿@model MCFFrontend.Models.tr_bpkb
+@{
+    ViewData["Title"] = "Create BPKB";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.1.3/css/bootstrap.min.css" />
+</head>
+<body>
+    <div class="container mt-5">
+        <h2>@ViewData["Title"]</h2>
+        <form asp-action="Create" asp-controller="Bpkb" method="post">
+            <div class="mb-3">
+                <label asp-for="AgreementNumber" class="form-label">Agreement Number</label>
+                <input asp-for="AgreementNumber" class="form-control" required />
+                <span asp-validation-for="AgreementNumber" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label asp-for="BranchId" class="form-label">Branch Id</label>
+                <input asp-for="BranchId" class="form-control" />
+                <span asp-validation-for="BranchId" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label asp-for="BpkbNo" class="form-label">No. BPKB</label>
+                <input asp-for="BpkbNo" class="form-control" />
+                <span asp-validation-for="BpkbNo" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label asp-for="BpkbDateIn" class="form-label">Tanggal BPKB In</label>
+                <input asp-for="BpkbDateIn" type="date" class="form-control" />
+                <span asp-validation-for="BpkbDateIn" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label asp-for="FakturNo" class="form-label">No. Faktur</label>
+                <input asp-for="FakturNo" class="form-control" />
+                <span asp-validation-for="FakturNo" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label asp-for="FakturDate" class="form-label">Tanggal Faktur</label>
+                <input asp-for="FakturDate" type="date" class="form-control" />
+                <span asp-validation-for="FakturDate" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label asp-for="PoliceNo" class="form-label">No. Polisi</label>
+                <input asp-for="PoliceNo" class="form-control" />
+                <span asp-validation-for="PoliceNo" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label asp-for="LocationId" class="form-label">Lokasi Penyimpanan:</label>
+                <select asp-for="LocationId" class="form-control" name="LocationId">
+                    @foreach (var location in ViewBag.Locations)
+                    {
+                        <option value="@location.location_id">@location.location_name</option>
+                    }
+                </select>
+            </div>
+            <input type="hidden" name="CreatedBy" value="@ViewBag.User.user_name" />
+            <input type="hidden" name="CreatedOn" value="@DateTime.Now" />
+            <input type="hidden" name="BpkbDate" value="@DateTime.Now" />
+            <input type="hidden" name="LastUpdatedBy" value="@ViewBag.User.user_name" />
+            <input type="hidden" name="LastUpdatedOn" value="@DateTime.Now" />
+            <button type="submit" class="btn btn-primary">Submit</button>
+        </form>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.1.3/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MCFFrontend", "MCFFrontend\MCFFrontend.csproj", "{B5705732-E944-467D-966B-DA12AB2D65F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5705732-E944-467D-966B-DA12AB2D65F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5705732-E944-467D-966B-DA12AB2D65F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5705732-E944-467D-966B-DA12AB2D65F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5705732-E944-467D-966B-DA12AB2D65F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B3AB8C0-23DC-4A61-9461-FDFC5D191DDC}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,40 @@
+Jawaban
+1.A.TabelPemabayaran
+   Primary Key : NoKontrak
+   FK : KodeCabang dan KodeMotor
+   B.TabelCabang
+   PK : KodeCabang
+   C.TabelMotor
+   PK : KodeMotor
+
+2. SELECT *
+FROM TabelPembayaran
+WHERE CAST(tglBayar as date) = '2014-10-20'
+
+3. 
+INSERT INTO TabelCabang(KodeCabang,NamaCabang)
+     VALUES
+           ('200','Tangerang')
+
+4. UPDATE TabelPembayaran
+		   SET KodeMotor = '001'
+		   WHERE KodeCabang = '115' and KodeMotor <> '001'
+
+5. SELECT TP.NoKontrak, TP.tglBayar, TP.JumlahBayar, TC.KodeCabang, TC.NamaCabang, TP.NoKwitansi, TM.KodeMotor, TM.NamaMotor
+FROM TabelPembayaran as TP INNER JOIN TabelCabang TC
+ON TP.KodeCabang = TC.KodeCabang INNER JOIN TabelMotor TM
+ON TP.KodeMotor = TM.KodeMotor
+ORDER BY JumlahBayar
+
+6. SELECT TC.*, TP.NoKontrak, TP.NoKwitansi
+FROM TabelCabang TC LEFT JOIN TabelPembayaran TP ON
+TP.KodeCabang = TC.KodeCabang
+
+7. SELECT TC.KodeCabang, TC.NamaCabang, COUNT(TP.NoKontrak) as TotalData, 
+CASE
+	WHEN COUNT(TP.NoKontrak) <> 0 THEN SUM(TP.JumlahBayar)
+	ELSE '0' 
+END as TotalBayar
+FROM TabelCabang TC LEFT JOIN TabelPembayaran TP ON
+TP.KodeCabang = TC.KodeCabang
+GROUP BY TC.KodeCabang, TC.NamaCabang
