@@ -1,5 +1,78 @@
 [
   {
+    "ContainingType": "MCFBackend.Controllers.BpkbController",
+    "Method": "DeleteBpkb",
+    "RelativePath": "api/delete/{agreementNumber}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "agreementNumber",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MCFBackend.Controllers.BpkbController",
+    "Method": "Edit",
+    "RelativePath": "api/edit/{agreementNumber}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "agreementNumber",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MCFBackend.Controllers.BpkbController",
+    "Method": "Edit",
+    "RelativePath": "api/edit/{agreementNumber}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "agreementNumber",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "model",
+        "Type": "MCFBackend.Services.Models.tr_bpkb",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MCFBackend.Controllers.BpkbController",
+    "Method": "GetAllBpkb",
+    "RelativePath": "api/GetAllBpkb",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MCFBackend.Controllers.BpkbController",
+    "Method": "GetAllData",
+    "RelativePath": "api/GetAllData",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "MCFBackend.Controllers.LoginController",
     "Method": "Login",
     "RelativePath": "api/login",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Y8gaHgjDhqA=",
+  "dgSpecHash": "w/4t03us6Ik=",
   "success": true,
-  "projectFilePath": "C:\\Users\\davidturpyn\\source\\repos\\MCFFrontend\\MCFFrontend\\MCFFrontend.csproj",
+  "projectFilePath": "C:\\Users\\davidturpyn\\source\\repos\\Jawaban Test MCF\\MCFFrontend\\MCFFrontend\\MCFFrontend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\davidturpyn\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.1\\microsoft.netcore.platforms.1.1.1.nupkg.sha512",
     "C:\\Users\\davidturpyn\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",

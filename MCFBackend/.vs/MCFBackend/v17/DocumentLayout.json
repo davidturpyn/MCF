@@ -1,57 +1,61 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\davidturpyn\\source\\repos\\MCFBackend\\",
+  "WorkspaceRootPath": "C:\\Users\\davidturpyn\\source\\repos\\Jawaban Test MCF\\MCFBackend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FF42B049-D682-4DFA-994F-1922194B3FEE}|MCFBackend\\MCFBackend.csproj|c:\\users\\davidturpyn\\source\\repos\\mcfbackend\\mcfbackend\\services\\models\\tr_bpkb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FF42B049-D682-4DFA-994F-1922194B3FEE}|MCFBackend\\MCFBackend.csproj|c:\\users\\davidturpyn\\source\\repos\\jawaban test mcf\\mcfbackend\\mcfbackend\\services\\models\\tr_bpkb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FF42B049-D682-4DFA-994F-1922194B3FEE}|MCFBackend\\MCFBackend.csproj|solutionrelative:mcfbackend\\services\\models\\tr_bpkb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF42B049-D682-4DFA-994F-1922194B3FEE}|MCFBackend\\MCFBackend.csproj|c:\\users\\davidturpyn\\source\\repos\\mcfbackend\\mcfbackend\\controllers\\bpkbcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FF42B049-D682-4DFA-994F-1922194B3FEE}|MCFBackend\\MCFBackend.csproj|c:\\users\\davidturpyn\\source\\repos\\jawaban test mcf\\mcfbackend\\mcfbackend\\services\\helper\\bpkbrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF42B049-D682-4DFA-994F-1922194B3FEE}|MCFBackend\\MCFBackend.csproj|solutionrelative:mcfbackend\\services\\helper\\bpkbrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF42B049-D682-4DFA-994F-1922194B3FEE}|MCFBackend\\MCFBackend.csproj|c:\\users\\davidturpyn\\source\\repos\\jawaban test mcf\\mcfbackend\\mcfbackend\\controllers\\bpkbcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FF42B049-D682-4DFA-994F-1922194B3FEE}|MCFBackend\\MCFBackend.csproj|solutionrelative:mcfbackend\\controllers\\bpkbcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF42B049-D682-4DFA-994F-1922194B3FEE}|MCFBackend\\MCFBackend.csproj|c:\\users\\davidturpyn\\source\\repos\\mcfbackend\\mcfbackend\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF42B049-D682-4DFA-994F-1922194B3FEE}|MCFBackend\\MCFBackend.csproj|solutionrelative:mcfbackend\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF42B049-D682-4DFA-994F-1922194B3FEE}|MCFBackend\\MCFBackend.csproj|c:\\users\\davidturpyn\\source\\repos\\mcfbackend\\mcfbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF42B049-D682-4DFA-994F-1922194B3FEE}|MCFBackend\\MCFBackend.csproj|solutionrelative:mcfbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF42B049-D682-4DFA-994F-1922194B3FEE}|MCFBackend\\MCFBackend.csproj|c:\\users\\davidturpyn\\source\\repos\\mcfbackend\\mcfbackend\\services\\helper\\loginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF42B049-D682-4DFA-994F-1922194B3FEE}|MCFBackend\\MCFBackend.csproj|solutionrelative:mcfbackend\\services\\helper\\loginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF42B049-D682-4DFA-994F-1922194B3FEE}|MCFBackend\\MCFBackend.csproj|c:\\users\\davidturpyn\\source\\repos\\mcfbackend\\mcfbackend\\mcfbackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{FF42B049-D682-4DFA-994F-1922194B3FEE}|MCFBackend\\MCFBackend.csproj|solutionrelative:mcfbackend\\mcfbackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF42B049-D682-4DFA-994F-1922194B3FEE}|MCFBackend\\MCFBackend.csproj|c:\\users\\davidturpyn\\source\\repos\\mcfbackend\\mcfbackend\\services\\interfaces\\ilogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF42B049-D682-4DFA-994F-1922194B3FEE}|MCFBackend\\MCFBackend.csproj|solutionrelative:mcfbackend\\services\\interfaces\\ilogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF42B049-D682-4DFA-994F-1922194B3FEE}|MCFBackend\\MCFBackend.csproj|c:\\users\\davidturpyn\\source\\repos\\mcfbackend\\mcfbackend\\services\\models\\ms_storage_location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF42B049-D682-4DFA-994F-1922194B3FEE}|MCFBackend\\MCFBackend.csproj|solutionrelative:mcfbackend\\services\\models\\ms_storage_location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF42B049-D682-4DFA-994F-1922194B3FEE}|MCFBackend\\MCFBackend.csproj|c:\\users\\davidturpyn\\source\\repos\\mcfbackend\\mcfbackend\\services\\interfaces\\ibpkb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FF42B049-D682-4DFA-994F-1922194B3FEE}|MCFBackend\\MCFBackend.csproj|c:\\users\\davidturpyn\\source\\repos\\jawaban test mcf\\mcfbackend\\mcfbackend\\services\\interfaces\\ibpkb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FF42B049-D682-4DFA-994F-1922194B3FEE}|MCFBackend\\MCFBackend.csproj|solutionrelative:mcfbackend\\services\\interfaces\\ibpkb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF42B049-D682-4DFA-994F-1922194B3FEE}|MCFBackend\\MCFBackend.csproj|c:\\users\\davidturpyn\\source\\repos\\mcfbackend\\mcfbackend\\services\\dto\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FF42B049-D682-4DFA-994F-1922194B3FEE}|MCFBackend\\MCFBackend.csproj|c:\\users\\davidturpyn\\source\\repos\\jawaban test mcf\\mcfbackend\\mcfbackend\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF42B049-D682-4DFA-994F-1922194B3FEE}|MCFBackend\\MCFBackend.csproj|solutionrelative:mcfbackend\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF42B049-D682-4DFA-994F-1922194B3FEE}|MCFBackend\\MCFBackend.csproj|c:\\users\\davidturpyn\\source\\repos\\jawaban test mcf\\mcfbackend\\mcfbackend\\services\\helper\\loginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF42B049-D682-4DFA-994F-1922194B3FEE}|MCFBackend\\MCFBackend.csproj|solutionrelative:mcfbackend\\services\\helper\\loginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF42B049-D682-4DFA-994F-1922194B3FEE}|MCFBackend\\MCFBackend.csproj|c:\\users\\davidturpyn\\source\\repos\\jawaban test mcf\\mcfbackend\\mcfbackend\\services\\interfaces\\ilogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF42B049-D682-4DFA-994F-1922194B3FEE}|MCFBackend\\MCFBackend.csproj|solutionrelative:mcfbackend\\services\\interfaces\\ilogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF42B049-D682-4DFA-994F-1922194B3FEE}|MCFBackend\\MCFBackend.csproj|c:\\users\\davidturpyn\\source\\repos\\jawaban test mcf\\mcfbackend\\mcfbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF42B049-D682-4DFA-994F-1922194B3FEE}|MCFBackend\\MCFBackend.csproj|solutionrelative:mcfbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF42B049-D682-4DFA-994F-1922194B3FEE}|MCFBackend\\MCFBackend.csproj|c:\\users\\davidturpyn\\source\\repos\\jawaban test mcf\\mcfbackend\\mcfbackend\\mcfbackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FF42B049-D682-4DFA-994F-1922194B3FEE}|MCFBackend\\MCFBackend.csproj|solutionrelative:mcfbackend\\mcfbackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF42B049-D682-4DFA-994F-1922194B3FEE}|MCFBackend\\MCFBackend.csproj|c:\\users\\davidturpyn\\source\\repos\\jawaban test mcf\\mcfbackend\\mcfbackend\\services\\models\\ms_storage_location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF42B049-D682-4DFA-994F-1922194B3FEE}|MCFBackend\\MCFBackend.csproj|solutionrelative:mcfbackend\\services\\models\\ms_storage_location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF42B049-D682-4DFA-994F-1922194B3FEE}|MCFBackend\\MCFBackend.csproj|c:\\users\\davidturpyn\\source\\repos\\jawaban test mcf\\mcfbackend\\mcfbackend\\services\\dto\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FF42B049-D682-4DFA-994F-1922194B3FEE}|MCFBackend\\MCFBackend.csproj|solutionrelative:mcfbackend\\services\\dto\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF42B049-D682-4DFA-994F-1922194B3FEE}|MCFBackend\\MCFBackend.csproj|c:\\users\\davidturpyn\\source\\repos\\mcfbackend\\mcfbackend\\services\\models\\ms_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FF42B049-D682-4DFA-994F-1922194B3FEE}|MCFBackend\\MCFBackend.csproj|c:\\users\\davidturpyn\\source\\repos\\jawaban test mcf\\mcfbackend\\mcfbackend\\services\\models\\ms_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FF42B049-D682-4DFA-994F-1922194B3FEE}|MCFBackend\\MCFBackend.csproj|solutionrelative:mcfbackend\\services\\models\\ms_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF42B049-D682-4DFA-994F-1922194B3FEE}|MCFBackend\\MCFBackend.csproj|c:\\users\\davidturpyn\\source\\repos\\mcfbackend\\mcfbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{FF42B049-D682-4DFA-994F-1922194B3FEE}|MCFBackend\\MCFBackend.csproj|c:\\users\\davidturpyn\\source\\repos\\jawaban test mcf\\mcfbackend\\mcfbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{FF42B049-D682-4DFA-994F-1922194B3FEE}|MCFBackend\\MCFBackend.csproj|solutionrelative:mcfbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF42B049-D682-4DFA-994F-1922194B3FEE}|MCFBackend\\MCFBackend.csproj|c:\\users\\davidturpyn\\source\\repos\\mcfbackend\\mcfbackend\\context\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FF42B049-D682-4DFA-994F-1922194B3FEE}|MCFBackend\\MCFBackend.csproj|c:\\users\\davidturpyn\\source\\repos\\jawaban test mcf\\mcfbackend\\mcfbackend\\context\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FF42B049-D682-4DFA-994F-1922194B3FEE}|MCFBackend\\MCFBackend.csproj|solutionrelative:mcfbackend\\context\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -62,17 +66,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "LoginRepository.cs",
-              "DocumentMoniker": "C:\\Users\\davidturpyn\\source\\repos\\MCFBackend\\MCFBackend\\Services\\Helper\\LoginRepository.cs",
+              "DocumentMoniker": "C:\\Users\\davidturpyn\\source\\repos\\Jawaban Test MCF\\MCFBackend\\MCFBackend\\Services\\Helper\\LoginRepository.cs",
               "RelativeDocumentMoniker": "MCFBackend\\Services\\Helper\\LoginRepository.cs",
-              "ToolTip": "C:\\Users\\davidturpyn\\source\\repos\\MCFBackend\\MCFBackend\\Services\\Helper\\LoginRepository.cs",
+              "ToolTip": "C:\\Users\\davidturpyn\\source\\repos\\Jawaban Test MCF\\MCFBackend\\MCFBackend\\Services\\Helper\\LoginRepository.cs",
               "RelativeToolTip": "MCFBackend\\Services\\Helper\\LoginRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBMAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-21T03:59:46.337Z",
               "IsPinned": true,
@@ -80,13 +84,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "LoginController.cs",
-              "DocumentMoniker": "C:\\Users\\davidturpyn\\source\\repos\\MCFBackend\\MCFBackend\\Controllers\\LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\davidturpyn\\source\\repos\\Jawaban Test MCF\\MCFBackend\\MCFBackend\\Controllers\\LoginController.cs",
               "RelativeDocumentMoniker": "MCFBackend\\Controllers\\LoginController.cs",
-              "ToolTip": "C:\\Users\\davidturpyn\\source\\repos\\MCFBackend\\MCFBackend\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\davidturpyn\\source\\repos\\Jawaban Test MCF\\MCFBackend\\MCFBackend\\Controllers\\LoginController.cs",
               "RelativeToolTip": "MCFBackend\\Controllers\\LoginController.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAIwC4AAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-21T04:46:56.754Z",
               "IsPinned": true,
@@ -94,147 +98,153 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ILogin.cs",
-              "DocumentMoniker": "C:\\Users\\davidturpyn\\source\\repos\\MCFBackend\\MCFBackend\\Services\\Interfaces\\ILogin.cs",
-              "RelativeDocumentMoniker": "MCFBackend\\Services\\Interfaces\\ILogin.cs",
-              "ToolTip": "C:\\Users\\davidturpyn\\source\\repos\\MCFBackend\\MCFBackend\\Services\\Interfaces\\ILogin.cs",
-              "RelativeToolTip": "MCFBackend\\Services\\Interfaces\\ILogin.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAA/AAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "BpkbController.cs",
+              "DocumentMoniker": "C:\\Users\\davidturpyn\\source\\repos\\Jawaban Test MCF\\MCFBackend\\MCFBackend\\Controllers\\BpkbController.cs",
+              "RelativeDocumentMoniker": "MCFBackend\\Controllers\\BpkbController.cs",
+              "ToolTip": "C:\\Users\\davidturpyn\\source\\repos\\Jawaban Test MCF\\MCFBackend\\MCFBackend\\Controllers\\BpkbController.cs",
+              "RelativeToolTip": "MCFBackend\\Controllers\\BpkbController.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAcwJsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T04:00:03.068Z",
+              "WhenOpened": "2024-09-21T05:55:49.493Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\davidturpyn\\source\\repos\\MCFBackend\\MCFBackend\\Program.cs",
-              "RelativeDocumentMoniker": "MCFBackend\\Program.cs",
-              "ToolTip": "C:\\Users\\davidturpyn\\source\\repos\\MCFBackend\\MCFBackend\\Program.cs",
-              "RelativeToolTip": "MCFBackend\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T04:41:57.976Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BpkbController.cs",
-              "DocumentMoniker": "C:\\Users\\davidturpyn\\source\\repos\\MCFBackend\\MCFBackend\\Controllers\\BpkbController.cs",
-              "RelativeDocumentMoniker": "MCFBackend\\Controllers\\BpkbController.cs",
-              "ToolTip": "C:\\Users\\davidturpyn\\source\\repos\\MCFBackend\\MCFBackend\\Controllers\\BpkbController.cs",
-              "RelativeToolTip": "MCFBackend\\Controllers\\BpkbController.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAgwC0AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T05:55:49.493Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "tr_bpkb.cs",
-              "DocumentMoniker": "C:\\Users\\davidturpyn\\source\\repos\\MCFBackend\\MCFBackend\\Services\\Models\\tr_bpkb.cs",
-              "RelativeDocumentMoniker": "MCFBackend\\Services\\Models\\tr_bpkb.cs",
-              "ToolTip": "C:\\Users\\davidturpyn\\source\\repos\\MCFBackend\\MCFBackend\\Services\\Models\\tr_bpkb.cs",
-              "RelativeToolTip": "MCFBackend\\Services\\Models\\tr_bpkb.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAiwC0AAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T04:03:12.048Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MCFBackend.csproj",
-              "DocumentMoniker": "C:\\Users\\davidturpyn\\source\\repos\\MCFBackend\\MCFBackend\\MCFBackend.csproj",
-              "RelativeDocumentMoniker": "MCFBackend\\MCFBackend.csproj",
-              "ToolTip": "C:\\Users\\davidturpyn\\source\\repos\\MCFBackend\\MCFBackend\\MCFBackend.csproj",
-              "RelativeToolTip": "MCFBackend\\MCFBackend.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-21T04:18:12.637Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\davidturpyn\\source\\repos\\MCFBackend\\MCFBackend\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\davidturpyn\\source\\repos\\Jawaban Test MCF\\MCFBackend\\MCFBackend\\appsettings.json",
               "RelativeDocumentMoniker": "MCFBackend\\appsettings.json",
-              "ToolTip": "C:\\Users\\davidturpyn\\source\\repos\\MCFBackend\\MCFBackend\\appsettings.json",
+              "ToolTip": "C:\\Users\\davidturpyn\\source\\repos\\Jawaban Test MCF\\MCFBackend\\MCFBackend\\appsettings.json",
               "RelativeToolTip": "MCFBackend\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-21T05:02:26.643Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-21T05:02:26.643Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "LoginRequest.cs",
-              "DocumentMoniker": "C:\\Users\\davidturpyn\\source\\repos\\MCFBackend\\MCFBackend\\Services\\Dto\\LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\davidturpyn\\source\\repos\\Jawaban Test MCF\\MCFBackend\\MCFBackend\\Services\\Dto\\LoginRequest.cs",
               "RelativeDocumentMoniker": "MCFBackend\\Services\\Dto\\LoginRequest.cs",
-              "ToolTip": "C:\\Users\\davidturpyn\\source\\repos\\MCFBackend\\MCFBackend\\Services\\Dto\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\davidturpyn\\source\\repos\\Jawaban Test MCF\\MCFBackend\\MCFBackend\\Services\\Dto\\LoginRequest.cs",
               "RelativeToolTip": "MCFBackend\\Services\\Dto\\LoginRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T04:46:07.637Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-21T04:46:07.637Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ms_storage_location.cs",
-              "DocumentMoniker": "C:\\Users\\davidturpyn\\source\\repos\\MCFBackend\\MCFBackend\\Services\\Models\\ms_storage_location.cs",
-              "RelativeDocumentMoniker": "MCFBackend\\Services\\Models\\ms_storage_location.cs",
-              "ToolTip": "C:\\Users\\davidturpyn\\source\\repos\\MCFBackend\\MCFBackend\\Services\\Models\\ms_storage_location.cs",
-              "RelativeToolTip": "MCFBackend\\Services\\Models\\ms_storage_location.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T04:02:24.565Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "IBpkb.cs",
-              "DocumentMoniker": "C:\\Users\\davidturpyn\\source\\repos\\MCFBackend\\MCFBackend\\Services\\Interfaces\\IBpkb.cs",
+              "DocumentMoniker": "C:\\Users\\davidturpyn\\source\\repos\\Jawaban Test MCF\\MCFBackend\\MCFBackend\\Services\\Interfaces\\IBpkb.cs",
               "RelativeDocumentMoniker": "MCFBackend\\Services\\Interfaces\\IBpkb.cs",
-              "ToolTip": "C:\\Users\\davidturpyn\\source\\repos\\MCFBackend\\MCFBackend\\Services\\Interfaces\\IBpkb.cs",
+              "ToolTip": "C:\\Users\\davidturpyn\\source\\repos\\Jawaban Test MCF\\MCFBackend\\MCFBackend\\Services\\Interfaces\\IBpkb.cs",
               "RelativeToolTip": "MCFBackend\\Services\\Interfaces\\IBpkb.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-21T05:56:19.711Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ms_user.cs",
-              "DocumentMoniker": "C:\\Users\\davidturpyn\\source\\repos\\MCFBackend\\MCFBackend\\Services\\Models\\ms_user.cs",
-              "RelativeDocumentMoniker": "MCFBackend\\Services\\Models\\ms_user.cs",
-              "ToolTip": "C:\\Users\\davidturpyn\\source\\repos\\MCFBackend\\MCFBackend\\Services\\Models\\ms_user.cs",
-              "RelativeToolTip": "MCFBackend\\Services\\Models\\ms_user.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "ILogin.cs",
+              "DocumentMoniker": "C:\\Users\\davidturpyn\\source\\repos\\Jawaban Test MCF\\MCFBackend\\MCFBackend\\Services\\Interfaces\\ILogin.cs",
+              "RelativeDocumentMoniker": "MCFBackend\\Services\\Interfaces\\ILogin.cs",
+              "ToolTip": "C:\\Users\\davidturpyn\\source\\repos\\Jawaban Test MCF\\MCFBackend\\MCFBackend\\Services\\Interfaces\\ILogin.cs",
+              "RelativeToolTip": "MCFBackend\\Services\\Interfaces\\ILogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAABSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T04:00:55.965Z",
+              "WhenOpened": "2024-09-21T04:00:03.068Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 0,
+              "Title": "tr_bpkb.cs",
+              "DocumentMoniker": "C:\\Users\\davidturpyn\\source\\repos\\Jawaban Test MCF\\MCFBackend\\MCFBackend\\Services\\Models\\tr_bpkb.cs",
+              "RelativeDocumentMoniker": "MCFBackend\\Services\\Models\\tr_bpkb.cs",
+              "ToolTip": "C:\\Users\\davidturpyn\\source\\repos\\Jawaban Test MCF\\MCFBackend\\MCFBackend\\Services\\Models\\tr_bpkb.cs",
+              "RelativeToolTip": "MCFBackend\\Services\\Models\\tr_bpkb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T04:03:12.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BpkbRepository.cs",
+              "DocumentMoniker": "C:\\Users\\davidturpyn\\source\\repos\\Jawaban Test MCF\\MCFBackend\\MCFBackend\\Services\\Helper\\BpkbRepository.cs",
+              "RelativeDocumentMoniker": "MCFBackend\\Services\\Helper\\BpkbRepository.cs",
+              "ToolTip": "C:\\Users\\davidturpyn\\source\\repos\\Jawaban Test MCF\\MCFBackend\\MCFBackend\\Services\\Helper\\BpkbRepository.cs",
+              "RelativeToolTip": "MCFBackend\\Services\\Helper\\BpkbRepository.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAIA9wBsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T12:27:05.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MCFBackend.csproj",
+              "DocumentMoniker": "C:\\Users\\davidturpyn\\source\\repos\\Jawaban Test MCF\\MCFBackend\\MCFBackend\\MCFBackend.csproj",
+              "RelativeDocumentMoniker": "MCFBackend\\MCFBackend.csproj",
+              "ToolTip": "C:\\Users\\davidturpyn\\source\\repos\\Jawaban Test MCF\\MCFBackend\\MCFBackend\\MCFBackend.csproj",
+              "RelativeToolTip": "MCFBackend\\MCFBackend.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-21T04:18:12.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ms_storage_location.cs",
+              "DocumentMoniker": "C:\\Users\\davidturpyn\\source\\repos\\Jawaban Test MCF\\MCFBackend\\MCFBackend\\Services\\Models\\ms_storage_location.cs",
+              "RelativeDocumentMoniker": "MCFBackend\\Services\\Models\\ms_storage_location.cs",
+              "ToolTip": "C:\\Users\\davidturpyn\\source\\repos\\Jawaban Test MCF\\MCFBackend\\MCFBackend\\Services\\Models\\ms_storage_location.cs",
+              "RelativeToolTip": "MCFBackend\\Services\\Models\\ms_storage_location.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T04:02:24.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\davidturpyn\\source\\repos\\Jawaban Test MCF\\MCFBackend\\MCFBackend\\Program.cs",
+              "RelativeDocumentMoniker": "MCFBackend\\Program.cs",
+              "ToolTip": "C:\\Users\\davidturpyn\\source\\repos\\Jawaban Test MCF\\MCFBackend\\MCFBackend\\Program.cs",
+              "RelativeToolTip": "MCFBackend\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T04:41:57.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ms_user.cs",
+              "DocumentMoniker": "C:\\Users\\davidturpyn\\source\\repos\\Jawaban Test MCF\\MCFBackend\\MCFBackend\\Services\\Models\\ms_user.cs",
+              "RelativeDocumentMoniker": "MCFBackend\\Services\\Models\\ms_user.cs",
+              "ToolTip": "C:\\Users\\davidturpyn\\source\\repos\\Jawaban Test MCF\\MCFBackend\\MCFBackend\\Services\\Models\\ms_user.cs",
+              "RelativeToolTip": "MCFBackend\\Services\\Models\\ms_user.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T04:00:55.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "ApplicationContext.cs",
-              "DocumentMoniker": "C:\\Users\\davidturpyn\\source\\repos\\MCFBackend\\MCFBackend\\Context\\ApplicationContext.cs",
+              "DocumentMoniker": "C:\\Users\\davidturpyn\\source\\repos\\Jawaban Test MCF\\MCFBackend\\MCFBackend\\Context\\ApplicationContext.cs",
               "RelativeDocumentMoniker": "MCFBackend\\Context\\ApplicationContext.cs",
-              "ToolTip": "C:\\Users\\davidturpyn\\source\\repos\\MCFBackend\\MCFBackend\\Context\\ApplicationContext.cs",
+              "ToolTip": "C:\\Users\\davidturpyn\\source\\repos\\Jawaban Test MCF\\MCFBackend\\MCFBackend\\Context\\ApplicationContext.cs",
               "RelativeToolTip": "MCFBackend\\Context\\ApplicationContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T03:58:05.194Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-21T03:58:05.194Z"
             }
           ]
         }

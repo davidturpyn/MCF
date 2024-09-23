@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\davidturpyn\\source\\repos\\MCFBackend\\MCFBackend\\MCFBackend.csproj": {}
+    "C:\\Users\\davidturpyn\\source\\repos\\Jawaban Test MCF\\MCFBackend\\MCFBackend\\MCFBackend.csproj": {}
   },
   "projects": {
-    "C:\\Users\\davidturpyn\\source\\repos\\MCFBackend\\MCFBackend\\MCFBackend.csproj": {
+    "C:\\Users\\davidturpyn\\source\\repos\\Jawaban Test MCF\\MCFBackend\\MCFBackend\\MCFBackend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\davidturpyn\\source\\repos\\MCFBackend\\MCFBackend\\MCFBackend.csproj",
+        "projectUniqueName": "C:\\Users\\davidturpyn\\source\\repos\\Jawaban Test MCF\\MCFBackend\\MCFBackend\\MCFBackend.csproj",
         "projectName": "MCFBackend",
-        "projectPath": "C:\\Users\\davidturpyn\\source\\repos\\MCFBackend\\MCFBackend\\MCFBackend.csproj",
+        "projectPath": "C:\\Users\\davidturpyn\\source\\repos\\Jawaban Test MCF\\MCFBackend\\MCFBackend\\MCFBackend.csproj",
         "packagesPath": "C:\\Users\\davidturpyn\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\davidturpyn\\source\\repos\\MCFBackend\\MCFBackend\\obj\\",
+        "outputPath": "C:\\Users\\davidturpyn\\source\\repos\\Jawaban Test MCF\\MCFBackend\\MCFBackend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\davidturpyn\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -18,9 +18,5 @@ namespace MCFBackend.Services.Helper
             return await db.ms_user
                 .FirstOrDefaultAsync(u => u.user_name == userName && u.password == password);
         }
-        public async Task<List<ms_storage_location>> GetAllLocationsAsync()
-        {
-            return await db.ms_storage_location.ToListAsync();
-        }
     }
 }

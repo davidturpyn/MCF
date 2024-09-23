@@ -2,7 +2,6 @@
 {
     public class LoginResponse
     {
-        public user user { get; set; }
-        public locations Locations { get; set; }
+        public Bpkbs bpkbs { get; set; }
     }
 }

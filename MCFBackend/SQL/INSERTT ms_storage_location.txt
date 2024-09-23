@@ -1,0 +1,14 @@
+USE [tesMCF]
+GO
+
+INSERT INTO [dbo].[ms_storage_location]
+           ([location_name])
+     VALUES
+           ('JAKARTA')
+INSERT INTO [dbo].[ms_storage_location]
+           ([location_name])
+     VALUES
+           ('BANDUNG')
+GO
+
+

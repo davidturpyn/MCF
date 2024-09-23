@@ -1,0 +1,34 @@
+USE [tesMCF]
+GO
+
+INSERT INTO [dbo].[ms_user]
+           ([user_name]
+           ,[password]
+           ,[is_active])
+     VALUES
+           ('jhonUmiro',
+           'admin1*',
+           1)
+
+INSERT INTO [dbo].[ms_user]
+           ([user_name]
+           ,[password]
+           ,[is_active])
+     VALUES
+           ('trisNatan',
+           'admin2@',
+           1)
+
+INSERT INTO [dbo].[ms_user]
+           ([user_name]
+           ,[password]
+           ,[is_active])
+     VALUES
+           ('hugoRess',
+           'admin3#',
+           0)
+GO
+
+--TRUNCATE TABLE ms_user
+
+

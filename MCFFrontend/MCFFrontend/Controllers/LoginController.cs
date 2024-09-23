@@ -35,12 +35,7 @@ namespace MCFFrontend.Controllers
 
             if (response.IsSuccessStatusCode)
             {
-                var responseData = await response.Content.ReadFromJsonAsync<LoginResponse>();
-
-                string locationsJson = JsonConvert.SerializeObject(responseData.Locations.result);
-                string userJson = JsonConvert.SerializeObject(responseData.user);
-
-                return RedirectToAction("Index", "Bpkb", new { locations = locationsJson, user = userJson });
+                return RedirectToAction("Index", "Bpkb");
             }
 
             ViewBag.Error = "User not found!";

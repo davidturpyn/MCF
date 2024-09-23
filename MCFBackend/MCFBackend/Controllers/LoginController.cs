@@ -21,30 +21,16 @@ namespace MCFBackend.Controllers
 
             if (user == null || !user.is_active)
             {
-                return Unauthorized(); // User not found or inactive
+                return Unauthorized();
             }
-
-            var claims = new List<Claim>{new Claim(ClaimTypes.Name, user.user_name)};
-
+            var claims = new List<Claim>{
+                new 
+                Claim(ClaimTypes.Name, user.user_name)
+            };
             var claimsIdentity = new ClaimsIdentity(claims, "Cookies");
             var claimsPrincipal = new ClaimsPrincipal(claimsIdentity);
-
             await HttpContext.SignInAsync("Cookies", claimsPrincipal);
-
-            // Fetch locations
-            var locations = iLoginRepo.GetAllLocationsAsync();
-
-            // Create a response object
-            var response = new
-            {
-                User = new
-                {
-                    user.user_name,
-                    user.is_active
-                },
-                Locations = locations
-            };
-            return Ok(response);
+            return Ok();
         }
     }
 }
