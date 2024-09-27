@@ -173,3 +173,4 @@ C:\Users\davidturpyn\source\repos\Jawaban Test MCF\MCFBackend\MCFBackend\obj\Deb
 C:\Users\davidturpyn\source\repos\Jawaban Test MCF\MCFBackend\MCFBackend\obj\Debug\net6.0\MCFBackend.pdb
 C:\Users\davidturpyn\source\repos\Jawaban Test MCF\MCFBackend\MCFBackend\obj\Debug\net6.0\MCFBackend.genruntimeconfig.cache
 C:\Users\davidturpyn\source\repos\Jawaban Test MCF\MCFBackend\MCFBackend\obj\Debug\net6.0\ref\MCFBackend.dll
+C:\Users\davidturpyn\source\repos\Jawaban Test MCF\MCFBackend\MCFBackend\bin\Debug\net6.0\appsettings.Production.json

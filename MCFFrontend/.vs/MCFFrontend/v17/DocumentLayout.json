@@ -7,20 +7,16 @@
       "RelativeMoniker": "D:0:0:{B5705732-E944-467D-966B-DA12AB2D65F6}|MCFFrontend\\MCFFrontend.csproj|solutionrelative:mcffrontend\\controllers\\bpkbcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B5705732-E944-467D-966B-DA12AB2D65F6}|MCFFrontend\\MCFFrontend.csproj|c:\\users\\davidturpyn\\source\\repos\\jawaban test mcf\\mcffrontend\\mcffrontend\\views\\bpkb\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B5705732-E944-467D-966B-DA12AB2D65F6}|MCFFrontend\\MCFFrontend.csproj|solutionrelative:mcffrontend\\views\\bpkb\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B5705732-E944-467D-966B-DA12AB2D65F6}|MCFFrontend\\MCFFrontend.csproj|c:\\users\\davidturpyn\\source\\repos\\jawaban test mcf\\mcffrontend\\mcffrontend\\views\\bpkb\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B5705732-E944-467D-966B-DA12AB2D65F6}|MCFFrontend\\MCFFrontend.csproj|solutionrelative:mcffrontend\\views\\bpkb\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B5705732-E944-467D-966B-DA12AB2D65F6}|MCFFrontend\\MCFFrontend.csproj|c:\\users\\davidturpyn\\source\\repos\\jawaban test mcf\\mcffrontend\\mcffrontend\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B5705732-E944-467D-966B-DA12AB2D65F6}|MCFFrontend\\MCFFrontend.csproj|solutionrelative:mcffrontend\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B5705732-E944-467D-966B-DA12AB2D65F6}|MCFFrontend\\MCFFrontend.csproj|c:\\users\\davidturpyn\\source\\repos\\jawaban test mcf\\mcffrontend\\mcffrontend\\views\\bpkb\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5705732-E944-467D-966B-DA12AB2D65F6}|MCFFrontend\\MCFFrontend.csproj|solutionrelative:mcffrontend\\views\\bpkb\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B5705732-E944-467D-966B-DA12AB2D65F6}|MCFFrontend\\MCFFrontend.csproj|c:\\users\\davidturpyn\\source\\repos\\jawaban test mcf\\mcffrontend\\mcffrontend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5705732-E944-467D-966B-DA12AB2D65F6}|MCFFrontend\\MCFFrontend.csproj|solutionrelative:mcffrontend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B5705732-E944-467D-966B-DA12AB2D65F6}|MCFFrontend\\MCFFrontend.csproj|c:\\users\\davidturpyn\\source\\repos\\jawaban test mcf\\mcffrontend\\mcffrontend\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5705732-E944-467D-966B-DA12AB2D65F6}|MCFFrontend\\MCFFrontend.csproj|solutionrelative:mcffrontend\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B5705732-E944-467D-966B-DA12AB2D65F6}|MCFFrontend\\MCFFrontend.csproj|c:\\users\\davidturpyn\\source\\repos\\jawaban test mcf\\mcffrontend\\mcffrontend\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,6 +27,26 @@
       "RelativeMoniker": "D:0:0:{B5705732-E944-467D-966B-DA12AB2D65F6}|MCFFrontend\\MCFFrontend.csproj|solutionrelative:mcffrontend\\views\\bpkb\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{B5705732-E944-467D-966B-DA12AB2D65F6}|MCFFrontend\\MCFFrontend.csproj|c:\\users\\davidturpyn\\source\\repos\\jawaban test mcf\\mcffrontend\\mcffrontend\\models\\rootbpkbs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5705732-E944-467D-966B-DA12AB2D65F6}|MCFFrontend\\MCFFrontend.csproj|solutionrelative:mcffrontend\\models\\rootbpkbs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5705732-E944-467D-966B-DA12AB2D65F6}|MCFFrontend\\MCFFrontend.csproj|c:\\users\\davidturpyn\\source\\repos\\jawaban test mcf\\mcffrontend\\mcffrontend\\models\\bpkbs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5705732-E944-467D-966B-DA12AB2D65F6}|MCFFrontend\\MCFFrontend.csproj|solutionrelative:mcffrontend\\models\\bpkbs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5705732-E944-467D-966B-DA12AB2D65F6}|MCFFrontend\\MCFFrontend.csproj|c:\\users\\davidturpyn\\source\\repos\\jawaban test mcf\\mcffrontend\\mcffrontend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B5705732-E944-467D-966B-DA12AB2D65F6}|MCFFrontend\\MCFFrontend.csproj|solutionrelative:mcffrontend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5705732-E944-467D-966B-DA12AB2D65F6}|MCFFrontend\\MCFFrontend.csproj|c:\\users\\davidturpyn\\source\\repos\\jawaban test mcf\\mcffrontend\\mcffrontend\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5705732-E944-467D-966B-DA12AB2D65F6}|MCFFrontend\\MCFFrontend.csproj|solutionrelative:mcffrontend\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5705732-E944-467D-966B-DA12AB2D65F6}|MCFFrontend\\MCFFrontend.csproj|c:\\users\\davidturpyn\\source\\repos\\jawaban test mcf\\mcffrontend\\mcffrontend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5705732-E944-467D-966B-DA12AB2D65F6}|MCFFrontend\\MCFFrontend.csproj|solutionrelative:mcffrontend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B5705732-E944-467D-966B-DA12AB2D65F6}|MCFFrontend\\MCFFrontend.csproj|c:\\users\\davidturpyn\\source\\repos\\jawaban test mcf\\mcffrontend\\mcffrontend\\models\\bpkbresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B5705732-E944-467D-966B-DA12AB2D65F6}|MCFFrontend\\MCFFrontend.csproj|solutionrelative:mcffrontend\\models\\bpkbresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -39,24 +55,12 @@
       "RelativeMoniker": "D:0:0:{B5705732-E944-467D-966B-DA12AB2D65F6}|MCFFrontend\\MCFFrontend.csproj|solutionrelative:mcffrontend\\models\\tr_bpkb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B5705732-E944-467D-966B-DA12AB2D65F6}|MCFFrontend\\MCFFrontend.csproj|c:\\users\\davidturpyn\\source\\repos\\jawaban test mcf\\mcffrontend\\mcffrontend\\models\\rootbpkbs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5705732-E944-467D-966B-DA12AB2D65F6}|MCFFrontend\\MCFFrontend.csproj|solutionrelative:mcffrontend\\models\\rootbpkbs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B5705732-E944-467D-966B-DA12AB2D65F6}|MCFFrontend\\MCFFrontend.csproj|c:\\users\\davidturpyn\\source\\repos\\jawaban test mcf\\mcffrontend\\mcffrontend\\models\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B5705732-E944-467D-966B-DA12AB2D65F6}|MCFFrontend\\MCFFrontend.csproj|solutionrelative:mcffrontend\\models\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B5705732-E944-467D-966B-DA12AB2D65F6}|MCFFrontend\\MCFFrontend.csproj|c:\\users\\davidturpyn\\source\\repos\\jawaban test mcf\\mcffrontend\\mcffrontend\\models\\bpkbs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5705732-E944-467D-966B-DA12AB2D65F6}|MCFFrontend\\MCFFrontend.csproj|solutionrelative:mcffrontend\\models\\bpkbs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B5705732-E944-467D-966B-DA12AB2D65F6}|MCFFrontend\\MCFFrontend.csproj|c:\\users\\davidturpyn\\source\\repos\\jawaban test mcf\\mcffrontend\\mcffrontend\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B5705732-E944-467D-966B-DA12AB2D65F6}|MCFFrontend\\MCFFrontend.csproj|solutionrelative:mcffrontend\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5705732-E944-467D-966B-DA12AB2D65F6}|MCFFrontend\\MCFFrontend.csproj|c:\\users\\davidturpyn\\source\\repos\\jawaban test mcf\\mcffrontend\\mcffrontend\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5705732-E944-467D-966B-DA12AB2D65F6}|MCFFrontend\\MCFFrontend.csproj|solutionrelative:mcffrontend\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B5705732-E944-467D-966B-DA12AB2D65F6}|MCFFrontend\\MCFFrontend.csproj|c:\\users\\davidturpyn\\source\\repos\\jawaban test mcf\\mcffrontend\\mcffrontend\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -84,7 +88,7 @@
               "RelativeDocumentMoniker": "MCFFrontend\\Controllers\\BpkbController.cs",
               "ToolTip": "C:\\Users\\davidturpyn\\source\\repos\\Jawaban Test MCF\\MCFFrontend\\MCFFrontend\\Controllers\\BpkbController.cs",
               "RelativeToolTip": "MCFFrontend\\Controllers\\BpkbController.cs",
-              "ViewState": "AgIAAIsAAAAAAAAAAAAgwJ4AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-21T06:01:48.572Z",
               "IsPinned": true,
@@ -92,73 +96,44 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\davidturpyn\\source\\repos\\Jawaban Test MCF\\MCFFrontend\\MCFFrontend\\Views\\Bpkb\\Index.cshtml",
               "RelativeDocumentMoniker": "MCFFrontend\\Views\\Bpkb\\Index.cshtml",
               "ToolTip": "C:\\Users\\davidturpyn\\source\\repos\\Jawaban Test MCF\\MCFFrontend\\MCFFrontend\\Views\\Bpkb\\Index.cshtml",
               "RelativeToolTip": "MCFFrontend\\Views\\Bpkb\\Index.cshtml",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAAC8AAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-21T07:33:54.775Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\davidturpyn\\source\\repos\\Jawaban Test MCF\\MCFFrontend\\MCFFrontend\\Views\\Bpkb\\Edit.cshtml",
-              "RelativeDocumentMoniker": "MCFFrontend\\Views\\Bpkb\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\davidturpyn\\source\\repos\\Jawaban Test MCF\\MCFFrontend\\MCFFrontend\\Views\\Bpkb\\Edit.cshtml",
-              "RelativeToolTip": "MCFFrontend\\Views\\Bpkb\\Edit.cshtml",
-              "ViewState": "AgIAABEAAAAAAAAAAAAcwBwAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-23T13:42:31.959Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "create.cshtml",
               "DocumentMoniker": "C:\\Users\\davidturpyn\\source\\repos\\Jawaban Test MCF\\MCFFrontend\\MCFFrontend\\Views\\Bpkb\\create.cshtml",
               "RelativeDocumentMoniker": "MCFFrontend\\Views\\Bpkb\\create.cshtml",
               "ToolTip": "C:\\Users\\davidturpyn\\source\\repos\\Jawaban Test MCF\\MCFFrontend\\MCFFrontend\\Views\\Bpkb\\create.cshtml",
               "RelativeToolTip": "MCFFrontend\\Views\\Bpkb\\create.cshtml",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAAD0AAABJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-23T11:41:45.619Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-23T11:41:45.619Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "tr_bpkb.cs",
-              "DocumentMoniker": "C:\\Users\\davidturpyn\\source\\repos\\Jawaban Test MCF\\MCFFrontend\\MCFFrontend\\Models\\tr_bpkb.cs",
-              "RelativeDocumentMoniker": "MCFFrontend\\Models\\tr_bpkb.cs",
-              "ToolTip": "C:\\Users\\davidturpyn\\source\\repos\\Jawaban Test MCF\\MCFFrontend\\MCFFrontend\\Models\\tr_bpkb.cs",
-              "RelativeToolTip": "MCFFrontend\\Models\\tr_bpkb.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T13:22:10.257Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "LoginController.cs",
               "DocumentMoniker": "C:\\Users\\davidturpyn\\source\\repos\\Jawaban Test MCF\\MCFFrontend\\MCFFrontend\\Controllers\\LoginController.cs",
               "RelativeDocumentMoniker": "MCFFrontend\\Controllers\\LoginController.cs",
               "ToolTip": "C:\\Users\\davidturpyn\\source\\repos\\Jawaban Test MCF\\MCFFrontend\\MCFFrontend\\Controllers\\LoginController.cs",
               "RelativeToolTip": "MCFFrontend\\Controllers\\LoginController.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAA5wCUAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCUAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T07:36:04.802Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-21T07:36:04.802Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "user.cs",
               "DocumentMoniker": "C:\\Users\\davidturpyn\\source\\repos\\Jawaban Test MCF\\MCFFrontend\\MCFFrontend\\Models\\user.cs",
               "RelativeDocumentMoniker": "MCFFrontend\\Models\\user.cs",
@@ -166,12 +141,11 @@
               "RelativeToolTip": "MCFFrontend\\Models\\user.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T12:42:55.064Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-23T12:42:55.064Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "BpkbResponse.cs",
               "DocumentMoniker": "C:\\Users\\davidturpyn\\source\\repos\\Jawaban Test MCF\\MCFFrontend\\MCFFrontend\\Models\\BpkbResponse.cs",
               "RelativeDocumentMoniker": "MCFFrontend\\Models\\BpkbResponse.cs",
@@ -179,38 +153,35 @@
               "RelativeToolTip": "MCFFrontend\\Models\\BpkbResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T12:39:51.536Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-23T12:39:51.536Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\davidturpyn\\source\\repos\\Jawaban Test MCF\\MCFFrontend\\MCFFrontend\\Views\\Login\\Index.cshtml",
               "RelativeDocumentMoniker": "MCFFrontend\\Views\\Login\\Index.cshtml",
               "ToolTip": "C:\\Users\\davidturpyn\\source\\repos\\Jawaban Test MCF\\MCFFrontend\\MCFFrontend\\Views\\Login\\Index.cshtml",
               "RelativeToolTip": "MCFFrontend\\Views\\Login\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-23T12:20:08.544Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-23T12:20:08.544Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 7,
               "Title": "Bpkbs.cs",
               "DocumentMoniker": "C:\\Users\\davidturpyn\\source\\repos\\Jawaban Test MCF\\MCFFrontend\\MCFFrontend\\Models\\Bpkbs.cs",
               "RelativeDocumentMoniker": "MCFFrontend\\Models\\Bpkbs.cs",
               "ToolTip": "C:\\Users\\davidturpyn\\source\\repos\\Jawaban Test MCF\\MCFFrontend\\MCFFrontend\\Models\\Bpkbs.cs",
               "RelativeToolTip": "MCFFrontend\\Models\\Bpkbs.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T11:50:12.976Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-23T11:50:12.976Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "LoginResponse.cs",
               "DocumentMoniker": "C:\\Users\\davidturpyn\\source\\repos\\Jawaban Test MCF\\MCFFrontend\\MCFFrontend\\Models\\LoginResponse.cs",
               "RelativeDocumentMoniker": "MCFFrontend\\Models\\LoginResponse.cs",
@@ -218,38 +189,35 @@
               "RelativeToolTip": "MCFFrontend\\Models\\LoginResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T11:46:59.055Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-23T11:46:59.055Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 6,
               "Title": "RootBpkbs.cs",
               "DocumentMoniker": "C:\\Users\\davidturpyn\\source\\repos\\Jawaban Test MCF\\MCFFrontend\\MCFFrontend\\Models\\RootBpkbs.cs",
               "RelativeDocumentMoniker": "MCFFrontend\\Models\\RootBpkbs.cs",
               "ToolTip": "C:\\Users\\davidturpyn\\source\\repos\\Jawaban Test MCF\\MCFFrontend\\MCFFrontend\\Models\\RootBpkbs.cs",
               "RelativeToolTip": "MCFFrontend\\Models\\RootBpkbs.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAqwAsAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T12:48:03.273Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-21T12:48:03.273Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\davidturpyn\\source\\repos\\Jawaban Test MCF\\MCFFrontend\\MCFFrontend\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "MCFFrontend\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\davidturpyn\\source\\repos\\Jawaban Test MCF\\MCFFrontend\\MCFFrontend\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "MCFFrontend\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAdAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\davidturpyn\\source\\repos\\Jawaban Test MCF\\MCFFrontend\\MCFFrontend\\Views\\Bpkb\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MCFFrontend\\Views\\Bpkb\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\davidturpyn\\source\\repos\\Jawaban Test MCF\\MCFFrontend\\MCFFrontend\\Views\\Bpkb\\Edit.cshtml",
+              "RelativeToolTip": "MCFFrontend\\Views\\Bpkb\\Edit.cshtml",
+              "ViewState": "AgIAACIAAAAAAAAAAAArwDQAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-23T12:53:40.246Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-23T13:42:31.959Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 3,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\davidturpyn\\source\\repos\\Jawaban Test MCF\\MCFFrontend\\MCFFrontend\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "MCFFrontend\\Controllers\\HomeController.cs",
@@ -257,12 +225,47 @@
               "RelativeToolTip": "MCFFrontend\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T11:42:21.714Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-23T11:42:21.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\davidturpyn\\source\\repos\\Jawaban Test MCF\\MCFFrontend\\MCFFrontend\\appsettings.json",
+              "RelativeDocumentMoniker": "MCFFrontend\\appsettings.json",
+              "ToolTip": "C:\\Users\\davidturpyn\\source\\repos\\Jawaban Test MCF\\MCFFrontend\\MCFFrontend\\appsettings.json",
+              "RelativeToolTip": "MCFFrontend\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-27T08:10:19.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "tr_bpkb.cs",
+              "DocumentMoniker": "C:\\Users\\davidturpyn\\source\\repos\\Jawaban Test MCF\\MCFFrontend\\MCFFrontend\\Models\\tr_bpkb.cs",
+              "RelativeDocumentMoniker": "MCFFrontend\\Models\\tr_bpkb.cs",
+              "ToolTip": "C:\\Users\\davidturpyn\\source\\repos\\Jawaban Test MCF\\MCFFrontend\\MCFFrontend\\Models\\tr_bpkb.cs",
+              "RelativeToolTip": "MCFFrontend\\Models\\tr_bpkb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T13:22:10.257Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\davidturpyn\\source\\repos\\Jawaban Test MCF\\MCFFrontend\\MCFFrontend\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MCFFrontend\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\davidturpyn\\source\\repos\\Jawaban Test MCF\\MCFFrontend\\MCFFrontend\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MCFFrontend\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T12:53:40.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "ApiResponse.cs",
               "DocumentMoniker": "C:\\Users\\davidturpyn\\source\\repos\\Jawaban Test MCF\\MCFFrontend\\MCFFrontend\\Models\\ApiResponse.cs",
               "RelativeDocumentMoniker": "MCFFrontend\\Models\\ApiResponse.cs",
@@ -274,7 +277,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\davidturpyn\\source\\repos\\Jawaban Test MCF\\MCFFrontend\\MCFFrontend\\Program.cs",
               "RelativeDocumentMoniker": "MCFFrontend\\Program.cs",
